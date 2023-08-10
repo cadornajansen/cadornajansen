@@ -63,6 +63,3 @@
 
    
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cadornajansen.cadornajansen)
-
-
-*Illustrations by StorySet*
