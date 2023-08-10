@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats </summary>
 
-   ![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadornajansen&count_private=false&show_icons=true&theme=cadornajansen)
+   ![Jansen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadornajansen&count_private=false&show_icons=true&theme=cadornajansen)
 
 </details>
    
