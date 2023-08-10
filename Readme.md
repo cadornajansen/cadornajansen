@@ -1,10 +1,8 @@
-<img align="center" src="https://user-images.githubusercontent.com/62502140/141346916-1f6a0b40-8f97-4f8d-9e80-5a12bf11dbf2.gif" width="1000px">
 
-
-### Hi there, I'm Jansen
+# Hi there, I'm Jansen
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">  -->
 
-# I'm a Web Developer and a UI/UX Designer! 
+## I'm a Web Developer and a UI/UX Designer! 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="1px"> -->
 
 <img align="right" src="https://raw.githubusercontent.com/cadornajansen/cadornajansen/main/Code%20typing-amico%20(1).png" alt="jansen" height="400" />
