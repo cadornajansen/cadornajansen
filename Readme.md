@@ -1,5 +1,5 @@
 
-# Hi there, I'm Jansen
+# **Hi there, I'm Jansen**
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">  -->
 
 ## I'm a Web Developer and a UI/UX Designer! 
