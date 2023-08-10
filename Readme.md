@@ -11,7 +11,7 @@
 - 🌱 I’m currently a junior high school student
 - 👯 I’m looking to collaborate on new projects
 - ⚡ I love Philosophy and i have a broken humor
-- 💬 Ask me about clean coding
+- 💬 Ask me about coding concepts
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ria-monga/), [Twitter](https://twitter.com/riamonga7) -->
 
 
