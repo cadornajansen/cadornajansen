@@ -7,11 +7,10 @@
 
 <img align="right" src="https://raw.githubusercontent.com/cadornajansen/cadornajansen/main/Code%20typing-amico%20(1).png" alt="jansen" height="400" />
 
-- 🔭 I’m currently working as a student freelancer
-- 🌱 I’m currently a junior high school student
-- 👯 I’m looking to collaborate on new projects
-- ⚡ I love Philosophy and i have a broken humor
-- 💬 Ask me about coding concepts
+- 🔭 I’m looking to collaborate on new projects
+- 🌱 I’m currently a junior highschool student
+- ⚡ I read Philosophy and i have a broken humor
+- 💬 Ask me about programming concepts
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ria-monga/), [Twitter](https://twitter.com/riamonga7) -->
 
 
