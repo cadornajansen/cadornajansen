@@ -2,14 +2,14 @@
 # **Hi there, I'm Jansen**
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">  -->
 
-## I'm a Web Developer and a Graphic Designer! 
+## I'm a Student Developer! 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="1px"> -->
 
 <img align="right" src="https://raw.githubusercontent.com/cadornajansen/cadornajansen/main/Code%20typing-amico%20(1).png" alt="jansen" height="400" />
 
 - 🔭 looking to collaborate on new projects
 - 🌱 I’m a highschool student
-- ⚡ I like go read philosophical books 
+- ⚡ I like to solve leetcode problems
 - 💬 Ask me about programming concepts
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ria-monga/), [Twitter](https://twitter.com/riamonga7) -->
 
