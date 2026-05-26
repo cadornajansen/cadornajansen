@@ -8,8 +8,8 @@
 <img align="right" src="https://raw.githubusercontent.com/cadornajansen/cadornajansen/main/Code%20typing-amico%20(1).png" alt="jansen" height="400" />
 
 - 🔭 looking to collaborate on new projects
-- 🌱 I’m a highschool student
-- ⚡ I like to solve leetcode problems
+- 🌱 BS Computer Science Student
+- ⚡ Yeah data structures and algorithms
 - 💬 Ask me about programming concepts
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ria-monga/), [Twitter](https://twitter.com/riamonga7) -->
 
@@ -34,12 +34,6 @@
           
 <!--    <a href"" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a><a href"" target="_blank"> <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> </a> <a href"" target="_blank"> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> </a> -->
    
-<details>
-  <summary>:zap: GitHub Stats </summary>
-
-   ![Jansen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadornajansen&count_private=false&show_icons=true&theme=cadornajansen)
-
-</details>
    
 <details>
   <summary>:zap: Top Languages </summary>
